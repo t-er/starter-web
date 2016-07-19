@@ -1,0 +1,6 @@
+
+-rw-r--r-- 1 te015284 1049089   36 Jul 19 15:57 newfile.txt
+
+-rw-r--r-- 1 te015284 1049089   36 Jul 19 15:57 newfile.txt
+
+-rw-r--r-- 1 te015284 1049089   36 Jul 19 15:57 newfile.txt
