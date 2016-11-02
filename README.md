@@ -14,7 +14,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
-	Create a feature branch for all new work... Makes merging easier.
+	Create a feature branch for all new work... Makes merging easier. It also helps to label your commits.
 
 ## Copyright
 	2016 Git.Training. All rights reserved
