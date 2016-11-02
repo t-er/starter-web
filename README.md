@@ -14,5 +14,7 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 
+	Create a feature branch for all new work... Makes merging easier.
+
 ## Copyright
 	2016 Git.Training. All rights reserved
